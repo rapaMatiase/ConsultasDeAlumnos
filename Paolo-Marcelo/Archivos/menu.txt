@@ -1,0 +1,5 @@
+1. Jugar
+2. Instrucciones
+3. Ajustes
+4. Salir
+Seleccione:
